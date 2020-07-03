@@ -30,4 +30,4 @@ Regras para cálculodo INSS de 2020
 * Salário líquido
 A soma dos 3 itens acima deve ser exatamente o valor do salário bruto (100%).
 
-![Trabalho pronto]()
+![Trabalho pronto](https://github.com/pedrinfreitas/igti-trabalho-pratico-mod-3/blob/master/trabalho-pronto.JPG)
