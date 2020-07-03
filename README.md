@@ -1,14 +1,14 @@
-#Objetivos
+# Objetivos
 
 * Exercitaros seguintes conceitos trabalhados no Módulo:
 * Implementação de aplicações com JavaScript e React
 * Criação de Class Components
 
-#Enunciado
+# Enunciado
 
 Construa, utilizando React, uma aplicação para a calcular o salário líquido a partir do salário bruto, considerando as regras da CLT de 2020.
 
-#Atividades
+# Atividades
 
 Os alunos deverão desempenhar as seguintes atividades:
 
@@ -24,7 +24,7 @@ Os alunos deverão desempenhar as seguintes atividades:
 site  de  referênciapara  regras  de  cálculo  e  comparação  de  valores  calculados deve ser o:https://www.todacarreira.com/calculo-salario-liquido/
 Regras para cálculodo INSS de 2020
 
-##Além  dos  cálculos,  o  aluno  deverá  implementar  uma  barra  horizontal, indicandocom cores diferenciadas: 
+## Além  dos  cálculos,  o  aluno  deverá  implementar  uma  barra  horizontal, indicandocom cores diferenciadas: 
 * Percentual de desconto de INSS
 * Percentual de desconto do IRPF
 * Salário líquido
